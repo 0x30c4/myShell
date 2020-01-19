@@ -20,8 +20,6 @@
 #define COMMAND_OUTPUT_START 10
 #define COMMAND_OUTPUT_READING 11
 
-
-
 #define END_PHASE 100
 
 void clear_pc(pc *command) {
